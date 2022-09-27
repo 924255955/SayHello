@@ -1,7 +1,5 @@
 from flask import Flask, render_template, request, flash
 
-a = 10
-
 app = Flask(__name__)
 app.secret_key = "1234abcd"
 
