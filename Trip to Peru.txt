@@ -16,6 +16,8 @@ Day 01: April 1, 2025: Bangkok - Paris
   Evening (Paris, France): 
   Dinner at a Chinese restaurant [2].
 
+ก่อนแก่ไข ต้องเปลี่ยน mode เป็น editor mode ก่อน
+
 Day 02: April 2, 2025: Paris - Rio de Janeiro
 Morning (Paris, France): Breakfast at the hotel [2].
 Transfer to Charles de Gaulle Airport (CDG) [2].
